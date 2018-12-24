@@ -1,1 +1,2 @@
-# configs
+# Configs
+Configuration files collection
